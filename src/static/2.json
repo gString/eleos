@@ -1,0 +1,57 @@
+[
+  {
+    "session_id": "56c0aeeb-5a92-41a7-8e47-aa1d1a9d41bd",
+    "score": 12,
+    "outcome_type": "phq9"
+  },
+  {
+    "session_id": "96c049eb-9892-91a7-8947-ad19169d41bd",
+    "score": 18,
+    "outcome_type": "gad7"
+  },
+  {
+    "session_id": "56c0aeeb-5a92-41a7-8e47-aa1d1a9d41bd",
+    "score": 12,
+    "outcome_type": "gad7"
+  },
+  {
+    "session_id": "96c049eb-9892-91a7-8947-ad19169d41bd",
+    "score": 22,
+    "outcome_type": "phq9"
+  },
+  {
+    "session_id": "33c03eeb-3892-41a7-8e47-ad33169341bd",
+    "score": 22,
+    "outcome_type": "gad7"
+  },
+  {
+    "session_id": "33c03eeb-3892-41a7-8e47-ad33169341bd",
+    "score": 11,
+    "outcome_type": "phq9"
+  },
+  {
+    "session_id": "83c03eeb-3892-41a7-2e47-ad22169341bd",
+    "score": 17,
+    "outcome_type": "phq9"
+  },
+  {
+    "session_id": "33c03eeb-3892-41a7-8e47-ad33169341bd",
+    "score": 17,
+    "outcome_type": "phq9"
+  },
+  {
+    "session_id": "111031eb-3892-41a7-8e47-ad13119141bd",
+    "score": 17,
+    "outcome_type": "phq9"
+  },
+  {
+    "session_id": "83c03eeb-3892-41a7-2e47-ad22169341bd",
+    "score": 10,
+    "outcome_type": "gad7"
+  },
+  {
+    "session_id": "111031eb-3892-41a7-8e47-ad13119141bd",
+    "score": 18,
+    "outcome_type": "gad7"
+  }
+]

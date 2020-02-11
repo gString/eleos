@@ -1,0 +1,62 @@
+[
+  {
+    "session_id": "56c0aeeb-5a92-41a7-8e47-aa1d1a9d41bd",
+    "cross_talk_count": 8,
+    "client_avg_speech_rate": 152,
+    "therapist_avg_speech_rate": 174,
+    "client_avg_monologue_time": 11,
+    "therapist_avg_monologue_time": 11,
+    "listening_ratio": 42.23245355432442,
+    "avg_silence_time": 11
+  },
+  {
+    "session_id": "26c02eeb-5822-21a7-8e27-ad2d169d41bd",
+    "cross_talk_count": 9,
+    "client_avg_speech_rate": 159.23232332,
+    "therapist_avg_speech_rate": 111,
+    "client_avg_monologue_time": 12,
+    "therapist_avg_monologue_time": 10,
+    "listening_ratio": 44.23245355432442,
+    "avg_silence_time": 21
+  },
+  {
+    "session_id": "33c03eeb-3892-41a7-8e47-ad33169341bd",
+    "cross_talk_count": 10,
+    "client_avg_speech_rate": 112,
+    "therapist_avg_speech_rate": 112,
+    "client_avg_monologue_time": 4,
+    "therapist_avg_monologue_time": 3,
+    "listening_ratio": 51.23245355432442,
+    "avg_silence_time": 21
+  },
+  {
+    "session_id": "83c03eeb-3892-41a7-2e47-ad22169341bd",
+    "cross_talk_count": 22,
+    "client_avg_speech_rate": 250,
+    "therapist_avg_speech_rate": 272,
+    "client_avg_monologue_time": 5,
+    "therapist_avg_monologue_time": 6,
+    "listening_ratio": 23.1,
+    "avg_silence_time": 14
+  },
+  {
+    "session_id": "33c03eeb-3892-41a7-8e47-ad33169341bd",
+    "cross_talk_count": 8,
+    "client_avg_speech_rate": 155,
+    "therapist_avg_speech_rate": 124,
+    "client_avg_monologue_time": 8,
+    "therapist_avg_monologue_time": 5,
+    "listening_ratio": 99,
+    "avg_silence_time": 11
+  },
+  {
+    "session_id": "111031eb-3892-41a7-8e47-ad13119141bd",
+    "cross_talk_count": 6,
+    "client_avg_speech_rate": 180,
+    "therapist_avg_speech_rate": 115,
+    "client_avg_monologue_time": 16,
+    "therapist_avg_monologue_time": 12,
+    "listening_ratio": 34.22,
+    "avg_silence_time": 19
+  }
+]

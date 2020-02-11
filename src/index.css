@@ -6,8 +6,56 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.App {
+  padding: 20px 20vw;
 }
+.header {
+  color: #41a3a3;
+  padding-bottom: 25px;
+}
+.header h1 {
+  margin-bottom: 0;
+  font-weight: normal;
+}
+.subline {
+  color: #000;
+  margin: 0;
+  font-weight: lighter;
+  font-size: 12px;
+}
+.top {
+  display: flex;
+}
+.insights {
+  list-style: square;
+  list-style: square;
+  padding-left: 20px;
+  font-size: 12px;
+  color: #666;
+  width: 50%;
+  padding-right: 5vw;
+}
+.insights li {
+  margin-bottom: 5px;
+}
+.graph {
+  background-color: #85bcdd;
+  width: 50%;
+  opacity: .5;
+}
+.sessions {
+  margin-top: 30px;
+  text-align: left;
+  width: 100%;
+}
+.sessions thead th {
+  color: #41a3a3;
+  min-width: 2vw;
+}
+.sessions td {
+  font-size: 11px;
+  color: #333;
+  padding: 10px 2px;
+}
+
+
